@@ -1,6 +1,5 @@
 #Simple Editor  
 
----
 
 ##LIVE DEMO:   
 
